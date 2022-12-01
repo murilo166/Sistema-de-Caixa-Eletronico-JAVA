@@ -30,3 +30,12 @@ Com o projeto do caixa eletrônico, encontramos algumas questões que são muito
 - Caso a senha informada não seja a correta, é necessário chamar a função atual novamente. 
 
 - Quando o usuário escolher sair do sistema, exiba uma mensagem agradecendo por utilizar os serviços do banco: "{Nome}, foi um prazer ter você por aqui!".
+
+## Linguagens Utilizadas
+para a criaçâo dos progrmas utilezei somente a linhuagem java
+
+## Como Utilizar?
+1.Faça O dowload da pasta zip em code
+
+2.Extraia  da pasta zip os arquivos no seu explorador de arquivos.
+
